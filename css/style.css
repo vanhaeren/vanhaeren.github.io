@@ -113,10 +113,10 @@ textarea.form-control {
     right: 0; }
   .site-hero.inner-page {
     height: 50vh;
-    min-height: 700px; }
+    min-height: 750px; }
     .site-hero.inner-page.overlay:before {
       height: 50vh;
-      min-height: 700px; }
+      min-height: 750px; }
 
 .site-hero-inner {
   height: 100vh;
@@ -141,15 +141,15 @@ textarea.form-control {
 
 .inner-page .site-hero-inner {
   height: 50vh;
-  min-height: 700px; }
+  min-height: 750px; }
 
 .page-inside .site-hero-inner, .page-inside {
-  height: 70vh;
-  min-height: 500px; }
+  height: 50vh;
+  min-height: 750px; }
 
 .page-inside.overlay:before {
-  height: 70vh;
-  min-height: 500px; }
+  height: 50vh;
+  min-height: 750px; }
 
 .menu-open .site-menu-toggle span {
   background: #000; }
