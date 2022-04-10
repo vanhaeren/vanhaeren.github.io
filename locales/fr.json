@@ -1,0 +1,26 @@
+{
+  "head": {
+    "title": "Chambres d'hotes & table d'hotes de Cornec "
+  },
+  ".nav-item": {
+    "home": "Home",
+    "rooms": "Chambres d'hotes",
+    "dining": "Table d'hotes",
+    "surroundings": "Visites",
+    "reservations": "Reserver",
+    "aboutus": "A propos"
+  },
+  ".intro": {
+    "title": "Chambres d'hotes de Cornec "
+  },
+  ".rooms": {
+    "title": "Nos Chambres",
+    "text": "Tous nos chambres son construite avec des materiaux ecologique pour un sejour sain et tranquile. Nous proposons 3 chambres ",
+    "room1": "Loguivy",
+    "room2": "Brehat",
+    "room3": "Arcouest",
+    "room1-text": "La chambre loguivy est une chambre spacieux au 2ieme etage de 21m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil ",
+    "room2-text": "La chambre brehat  est une chambre spacieux au 2ieme etage de 23m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil. un lit canape offre la possibilite de dormir pour une personne additionnelle ",
+    "room3-text": "La chambre arcouest  est une chambre spacieux au 2ieme etage de 30m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil. un lit canape offre la possibilite de dormir pour une personne additionnelleun lit canape offre la possibilite de dormir pour une personne additionnelle. un coin de repos "
+  }
+}

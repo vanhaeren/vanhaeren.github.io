@@ -1,0 +1,26 @@
+{
+  "head": {
+    "title": "Chambre d'hotes & tables d'hotes,Cornec "
+  },
+  ".nav-item": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "dining": "Dining",
+    "surroundings": "Visits",
+    "reservations": "Reservations",
+    "aboutus": "About us"
+  },
+  ".intro": {
+    "title": "Chambres d'hotes de Cornec "
+  },
+  ".rooms": {
+    "title": "Our rooms",
+    "text": "We offer 3 rooms",
+    "room1": "Loguivy",
+    "room2": "Brehat",
+    "room3": "Arcouest",
+    "room1-text": "Our Loguivy room is a spacious 21m2 room on the second floor. It has a large walk-in shower and seperate toilet. A king size bed with quality linnen hepls you get a good nights sleep",
+    "room2-text": "Our brehat room is a spacious 23m2 room on the second floor. It has a large walk-in shower and seperate toilet. A king size bed with quality linnen hepls you get a good nights sleep. A sleeping couch offers the possibility to host a 3rd guest",
+    "room3-text": "Our arcoust room is a spacious 30m2 room on the first floor. It has a large walk-in shower and seperate toilet. A king size bed with quality linnen hepls you get a good nights sleep. A sleeping couch offers the possibility to host a 3rd guest and there is a sitting area to absorb the wonderfull atmosphere of this traditionnely styled room"
+  }
+}

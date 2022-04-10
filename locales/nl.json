@@ -1,0 +1,26 @@
+{
+  "head": {
+    "title": "Chambre d'hotes & tables d'hotes,Cornec "
+  },
+  ".nav-item": {
+    "home": "Home",
+    "rooms": "Gastenkamers",
+    "dining": "Eten & Drinken",
+    "surroundings": "In de buurt",
+    "reservations": "Reserveren",
+    "aboutus": "Over ons"
+  },
+  ".intro": {
+    "title": "Chambres d'hotes de Cornec "
+  },
+  ".rooms": {
+    "title": "Onze kamers",
+    "text": "wij bieden 3 kamers aan",
+    "room1": "Loguivy",
+    "room2": "Brehat",
+    "room3": "Arcouest",
+    "room1-text": "Onze Loguivy kamer s een ruime (21m2) kamer op de 2de verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust",
+    "room2-text": "Onze Brehat kamer is een ruime (23m2) kamer op de 2de verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust. Een slaapbank biedt de mogelijkheid tot een 3rde gast ",
+    "room3-text": "Onze Arcoust kamer is een ruime (30m2) kamer op de 1ste verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust. Een slaapbank biedt de mogelijkheid tot een 3rde gast. Een zithoek laat je genieten van de apprte atmosfeer van deze kamer "
+  }
+}
