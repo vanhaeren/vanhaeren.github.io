@@ -6,7 +6,7 @@
     "home": "Home",
     "rooms": "Chambres d'hotes",
     "dining": "Table d'hotes",
-    "surroundings": "Visites",
+    "surroundings": "La maison",
     "reservations": "Reserver",
     "aboutus": "A propos"
   },
@@ -22,5 +22,29 @@
     "room1-text": "La chambre loguivy est une chambre spacieux au 2ieme etage de 21m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil ",
     "room2-text": "La chambre brehat  est une chambre spacieux au 2ieme etage de 23m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil. un lit canape offre la possibilite de dormir pour une personne additionnelle ",
     "room3-text": "La chambre arcouest  est une chambre spacieux au 2ieme etage de 30m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil. un lit canape offre la possibilite de dormir pour une personne additionnelleun lit canape offre la possibilite de dormir pour une personne additionnelle. un coin de repos "
+  },
+  ".dining": {
+    "title": "Tables d'hotes",
+    "heading": "",
+    "text": "Le petit dejeuner est inclus et nous offrons tables d'hotes"
+  },
+  ".surroundings": {
+    "title": "La maison",
+    "heading": "Autour de la maison",
+    "text": "Quoi faire",
+    "sur1": "Le verger et le Jardin",
+    "sur1-text": "Our orechard",
+    "sur2": "Les promenades",
+    "sur2-text": "Our orechard",
+    "sur3": "La mer",
+    "sur3-text": "Our orechard",
+    "sur4": "Brehat",
+    "sur4-text": "Our orechard",
+    "sur5": "Les villages de charme",
+    "sur5-text": "Our orechard"
+  },
+  ".aboutus": {
+    "title": "A propos",
+    "text": "Some blabla"
   }
 }

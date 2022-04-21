@@ -101,6 +101,16 @@ textarea.form-control {
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
     color: #fff; }
+  .site-hero.overlay-light:before {
+    background: #fff;
+    content: "";
+    position: absolute;
+    height: 100vh;
+    min-height: 700px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0; }
   .site-hero.overlay:before {
     background: rgba(0, 0, 0, 0.45);
     content: "";
@@ -1201,8 +1211,7 @@ textarea.form-control {
   .pb_navbar .navbar-toggler:active, .pb_navbar .navbar-toggler:focus {
     outline: none; }
   .pb_navbar .navbar-brand {
-    font-family: "Playfair Display", times, serif;
-    font-size: 30px; }
+    padding-left:0 ; }
   .pb_navbar > .container {
     position: relative; }
   .pb_navbar .navbar-toggler {

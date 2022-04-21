@@ -6,7 +6,7 @@
     "home": "Home",
     "rooms": "Rooms",
     "dining": "Dining",
-    "surroundings": "Visits",
+    "surroundings": "The house",
     "reservations": "Reservations",
     "aboutus": "About us"
   },
@@ -22,5 +22,29 @@
     "room1-text": "Our Loguivy room is a spacious 21m2 room on the second floor. It has a large walk-in shower and seperate toilet. A king size bed with quality linnen hepls you get a good nights sleep",
     "room2-text": "Our brehat room is a spacious 23m2 room on the second floor. It has a large walk-in shower and seperate toilet. A king size bed with quality linnen hepls you get a good nights sleep. A sleeping couch offers the possibility to host a 3rd guest",
     "room3-text": "Our arcoust room is a spacious 30m2 room on the first floor. It has a large walk-in shower and seperate toilet. A king size bed with quality linnen hepls you get a good nights sleep. A sleeping couch offers the possibility to host a 3rd guest and there is a sitting area to absorb the wonderfull atmosphere of this traditionnely styled room"
+  },
+  ".dining": {
+    "title": "Dining",
+    "heading": "Diner options",
+    "text": "All our overnight stays include breakfast and we offer dinner/lunch on demand"
+  },
+  ".surroundings": {
+    "title": "The house",
+    "heading": "Around our house",
+    "text": "Thins to do",
+    "sur1": "Our orechard and garden",
+    "sur1-text": "Our orechard",
+    "sur2": "Walks from our house",
+    "sur2-text": "Our orechard",
+    "sur3": "The sea-side",
+    "sur3-text": "Our orechard",
+    "sur4": "Brehat",
+    "sur4-text": "Our orechard",
+    "sur5": "Towns",
+    "sur5-text": "Our orechard"
+  },
+  ".aboutus": {
+    "title": "About us",
+    "text": "Some blabla"
   }
 }

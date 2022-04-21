@@ -6,7 +6,7 @@
     "home": "Home",
     "rooms": "Gastenkamers",
     "dining": "Eten & Drinken",
-    "surroundings": "In de buurt",
+    "surroundings": "Het huis",
     "reservations": "Reserveren",
     "aboutus": "Over ons"
   },
@@ -22,5 +22,29 @@
     "room1-text": "Onze Loguivy kamer s een ruime (21m2) kamer op de 2de verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust",
     "room2-text": "Onze Brehat kamer is een ruime (23m2) kamer op de 2de verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust. Een slaapbank biedt de mogelijkheid tot een 3rde gast ",
     "room3-text": "Onze Arcoust kamer is een ruime (30m2) kamer op de 1ste verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust. Een slaapbank biedt de mogelijkheid tot een 3rde gast. Een zithoek laat je genieten van de apprte atmosfeer van deze kamer "
+  },
+  ".dining": {
+    "title": "Eten & drinken",
+    "heading": "Diner options",
+    "text": "Ontbijt is inbergrepen en lunch of diner op aanvraag"
+  },
+  ".surroundings": {
+    "title": "Het huis",
+    "heading": "Rond het huis",
+    "text": "All our overnight stays include breakfast and we offer dinner/lunch on demand",
+    "sur1": "De Boomgaard en tuim",
+    "sur1-text": "Our orechard",
+    "sur2": "Wandelingen",
+    "sur2-text": "Our orechard",
+    "sur3": "De zee",
+    "sur3-text": "d",
+    "sur4": "Brehat",
+    "sur4-text": "Our orechard",
+    "sur5": "Charmante stadjes",
+    "sur5-text": "Our orechard"
+  },
+  ".aboutus": {
+    "title": "Over ons",
+    "text": "Some blabla"
   }
 }
