@@ -2,7 +2,7 @@
   "head": {
     "title": "Chambre d'hotes & tables d'hotes,Cornec "
   },
-  ".nav-item": {
+  ".menu": {
     "home": "Home",
     "rooms": "Gastenkamers",
     "dining": "Eten & Drinken",
@@ -46,5 +46,10 @@
   ".aboutus": {
     "title": "Over ons",
     "text": "Some blabla"
+  },
+  ".foot": {
+    "address": "Addres",
+    "phone": "Telefoon",
+    "email": "Email"
   }
 }
