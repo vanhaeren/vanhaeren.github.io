@@ -1,55 +1,58 @@
 {
   "head": {
-    "title": "Chambre d'hotes & tables d'hotes,Cornec "
+    "title": "Chambre d'hôtes & tables d'hôtes, Cornec "
   },
   ".menu": {
     "home": "Home",
-    "rooms": "Gastenkamers",
-    "dining": "Eten & Drinken",
-    "surroundings": "Het huis",
-    "reservations": "Reserveren",
+    "rooms": "Kamers",
+    "dining": "Maaltijden",
+    "surroundings": "Omgeving",
+    "reservations": "Reserveringen",
     "aboutus": "Over ons"
   },
   ".intro": {
     "title": ""
   },
   ".rooms": {
-    "title": "Onze kamers",
-    "text": "wij bieden 3 kamers aan",
-    "room1": "Loguivy",
-    "room2": "Brehat",
-    "room3": "Arcouest",
-    "room1-text": "Onze Loguivy kamer s een ruime (21m2) kamer op de 2de verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust",
-    "room2-text": "Onze Brehat kamer is een ruime (23m2) kamer op de 2de verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust. Een slaapbank biedt de mogelijkheid tot een 3rde gast ",
-    "room3-text": "Onze Arcoust kamer is een ruime (30m2) kamer op de 1ste verdieping met een inloopdouche en apart toilet. Een king size bed met kwaliteitslinnen zorgt voor een perfecte nachtrust. Een slaapbank biedt de mogelijkheid tot een 3rde gast. Een zithoek laat je genieten van de apprte atmosfeer van deze kamer "
+    "title": "Onze kamers"
   },
   ".dining": {
-    "title": "Eten & drinken",
-    "heading": "Diner options",
-    "text": "Ontbijt is inbergrepen en lunch of diner op aanvraag"
+    "title": "Maaltijden",
+    "heading": "Maaltijdopties",
+    "text": "Bij al onze overnachtingen is een ontbijt inbegrepen. Wij maken ook graag een lunch/diner/picknick voor je klaar, als je dit een dag op voorhand aanvraagt. Het menu en de prijzen vind je op ons suggestiebord.",
+    "breakfast": "Ontbijt",
+    "breakfast-text": "'Goed begonnen is half gewonnen': wij vinden een goed ontbijt erg belangrijk en bieden je een ruime keuze. Fruitsalades met verse yoghurt of een veggie English breakfast. Jij kiest! ",
+    "picnic": "Picknicks",
+    "picnic-text": "Heb je geen zin om aan te schuiven in een overvol restaurant? Wil je niet het risico lopen dat je te laat aankomt om nog iets te kunnen eten? Neem een van onze picknickmanden mee op je tocht en geniet van je lunch waar en wanneer jij dat wil.",
+    "tables": "Tables d'hôtes",
+    "tables-text": "Heerlijke gerechten uit de organische vegetarische keuken. Wij hebben het hemelse geluk te wonen in de beste regio voor groenteteelt van Frankrijk. Wat je op je bord krijgt, is dus van lokale herkomst, vers en overheerlijk."
   },
   ".surroundings": {
-    "title": "Het huis",
-    "heading": "Rond het huis",
-    "text": "All our overnight stays include breakfast and we offer dinner/lunch on demand",
-    "sur1": "De Boomgaard en tuim",
-    "sur1-text": "Our orechard",
-    "sur2": "Wandelingen",
-    "sur2-text": "Our orechard",
-    "sur3": "De zee",
-    "sur3-text": "d",
-    "sur4": "Brehat",
-    "sur4-text": "Our orechard",
-    "sur5": "Charmante stadjes",
-    "sur5-text": "Our orechard"
+    "title": "",
+    "heading": "Ons huis",
+    "text": "Onze 18e-eeuwse boerderij is liefdevol gerestaureerd met ecologische materialen en traditionele technieken, dat allemaal om onze gasten een luxueus en warm verblijf te bieden. Heerlijk genieten van de zon op een loungebed op onze binnenplaats, een boek lezen bij de open haard of lunchen in onze gezellige eetkamer: keuzes in overvloed ...",
+    "sur1": "De tuin en de boomgaard",
+    "sur1-text": "Doe ons maar een wilde tuin! Tal van rustige hoekjes in onze natuurlijke tuin, vol met al het moois dat Bretagne te bieden heeft. Schommel op de bank onder onze mimosa, droom weg bij de bloemenpracht of ontspan je in de hangmat in onze boomgaard.",
+    "sur2": "Wandelroutes vanaf ons huis",
+    "sur2-text": "Onze boerderij ligt in een wandelgebied bij uitstek. Als fervente wandelaars kennen we de streek op ons duimpje. We geven je dan ook graag tips!",
+    "sur3": "De kust",
+    "sur3-text": "De kust bij Cornec is adembenemend. Geniet van de zonsondergang achter de Roche d'Epautre en bewonder het uitzicht op de Bréhat-archipel. Of spring gewoon in de zee als je dat durft!",
+    "sur4": "Bréhat",
+    "sur4-text": "Bréhat is pure magie. Er is voor elk wat wils op het bloemeneiland Bréhat, van de ruige noordkust tot de prachtige landhuizen in het zuiden. In de zomer is het er soms wat druk, maar wij hebben genoeg tips om de platgetreden paden te verlaten en Bréhat in alle rust te ontdekken. De boot naar Bréhat vaart af van op wandelafstand van ons huis, je hoeft geen tijd te verspillen op zoek naar een parkeerplek.",
+    "sur5": "Steden",
+    "sur5-text": "Op een steenworp afstand kom je in het levendige Paimpol, met zijn mooie haven. Of ga fietsen langs de fietsroute naar Tréguier, met zijn indrukwekkende kathedraal en middeleeuwse stadscentrum. "
   },
   ".aboutus": {
     "title": "Over ons",
-    "text": "Some blabla"
+    "text1": "Vaak krijgen mijn vrouw en ik de vraag te horen hoe wij in Bretagne zijn beland.",
+    "text2": "Dat verhaal begint rond 2017, toen we besloten naar Zuid-Amerika te gaan en een roadtrip door Chili en Argentinië te maken. We huurden een aftandse bestelwagen, gooiden een tent achterin en weg waren we. Ons leven en ons werk in België waren hectisch, om de stress tot een minimum te beperken hadden we onze reis dan ook heel nauwgezet gepland. Op dag 2 viel dat plan al in duigen. We besloten het los te laten en alles te nemen zoals het kwam. Dat was de eerste les die ik heb geleerd.",
+    "text3": "We verbleven op campings of in Airbnb's bij mensen thuis en kwamen in contact met de allervriendelijkste warmhartige mensen. Ze leidden een eenvoudig plattelandsleven en deelden alles wat ze hadden. Het begon me te dagen dat zij veel gelukkiger waren dan wat ik in Europa gewend was.  Wat ze misten aan materiële welvaart, werd ruimschoots gecompenseerd door iets anders. Pure ongerepte natuur, sociale verbondenheid, joie de vivre, echte ecologie, dingen die er echt toe doen. Dat was mijn tweede les.",
+    "text4": "We belandden uiteindelijk op een camping in Patagonië. Daar gaf Nacho, de eigenaar, me mijn grootste levensles. In zijn vorige leven was Nacho een roadie, hij toerde de halve wereld rond tijdens het grootste deel van zijn jonge jaren. Dat veranderde toen hij en zijn Chileense vrouw een magisch stuk land vonden bij de Rio Simpson, sla begonnen te telen en een camping openden. Ze verlegden hun focus naar het allerbelangrijkste: mensen ontmoeten en in de natuur leven. Nooit vergeet ik die epische gitaarjamsessie met hem, gevolgd door zijn al even epische advies: Wacht niet. Wil je je leven veranderen, doe het dan nu. En dat deden we!",
+    "text5": "Terug thuis verkochten we ons huis, gaven we onze jobs op en gingen we opnieuw op weg, dit keer met een duidelijk doel voor ogen. Een nieuw leven beginnen, en wel nu! We zochten naar ons droomhuis en we botsten op deze 300 jaar oude boerderij bij de zee, met uitzicht op de mooiste archipel van Bretagne. Het was liefde op het eerste gezicht. De voorbije jaren hebben we deze magische plek gerenoveerd, met respect voor de geschiedenis en de ecologie van het gebouw, om mensen samen met ons te laten genieten van wat wij belangrijk vinden: het eenvoudige leven, de natuur, lekker eten en fijne gesprekken."
   },
   ".foot": {
-    "address": "Addres",
+    "address": "Adres",
     "phone": "Telefoon",
-    "email": "Email"
+    "email": "E-mail"
   }
 }

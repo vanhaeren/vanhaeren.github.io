@@ -26,9 +26,9 @@
 <body data-spy="scroll" data-target="#templateux-navbar" data-offset="160">
 <div class="dropdown" style="z-index: 200">
     <select class="selectpicker" data-width="fit" onchange="setLanguage(this.value);setIframe(this.value);">
+        <option data-content='<span class="flag-icon flag-icon-fr"></span> Francais'>fr</option>
         <option data-content='<span class="flag-icon flag-icon-gb"></span> English'>en</option>
-        <!-- <option data-content='<span class="flag-icon flag-icon-fr"></span> Francais'>fr</option>
-        <option data-content='<span class="flag-icon flag-icon-nl"></span> Nederlands'>nl</option>-->
+        <option data-content='<span class="flag-icon flag-icon-nl"></span> Nederlands'>nl</option>
     </select></div>
 <nav class="navbar navbar-expand-lg navbar-dark pb_navbar pb_scrolled-light" id="templateux-navbar">
     <div class="container">
@@ -114,7 +114,7 @@
 <section class="site-hero inner-page bg-light" id="section-booking">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
-            <iframe height="600" id="booking" class="responsive-iframe" src="https://cornec.amenitiz.io/en/booking/room"></iframe>
+            <iframe height="600" id="booking" class="responsive-iframe" src="https://cornec.amenitiz.io/fr/booking/room"></iframe>
         </div>
     </div>
 </section>
@@ -426,7 +426,7 @@
 <script src="js/jquery.MultiLanguage.min.js"></script>
 
 <script language="JavaScript">
-    setLanguage('en');
+    setLanguage('fr');
     $(function(){
         $('.selectpicker').selectpicker();
     });

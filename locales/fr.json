@@ -1,51 +1,54 @@
 {
   "head": {
-    "title": "Chambres d'hotes & table d'hotes de Cornec "
+    "title": "Chambres d'hôtes & table d'hôtes de Cornec "
   },
   ".menu": {
     "home": "Home",
-    "rooms": "Chambres d'hotes",
-    "dining": "Table d'hotes",
-    "surroundings": "La maison",
-    "reservations": "Reserver",
-    "aboutus": "A propos"
+    "rooms": "Chambres d'hôtes",
+    "dining": "Table d'hôtes",
+    "surroundings": "Notre maison",
+    "reservations": "Réserver",
+    "aboutus": "Qui sommes-nous ?"
   },
   ".intro": {
     "title": ""
   },
   ".rooms": {
-    "title": "Nos Chambres",
-    "text": "Tous nos chambres son construite avec des materiaux ecologique pour un sejour sain et tranquile. Nous proposons 3 chambres ",
-    "room1": "Loguivy",
-    "room2": "Brehat",
-    "room3": "Arcouest",
-    "room1-text": "La chambre loguivy est une chambre spacieux au 2ieme etage de 21m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil ",
-    "room2-text": "La chambre brehat  est une chambre spacieux au 2ieme etage de 23m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil. un lit canape offre la possibilite de dormir pour une personne additionnelle ",
-    "room3-text": "La chambre arcouest  est une chambre spacieux au 2ieme etage de 30m2 avec une douche italienne et WC separe. Un lit king size (180cm) assure un bon someil. un lit canape offre la possibilite de dormir pour une personne additionnelleun lit canape offre la possibilite de dormir pour une personne additionnelle. un coin de repos "
+    "title": "Nos Chambres"
   },
   ".dining": {
-    "title": "Tables d'hotes",
+    "title": "Les repas",
     "heading": "",
-    "text": "Le petit dejeuner est inclus et nous offrons tables d'hotes"
+    "text": "Le petit déjeuner est compris dans la location de la chambre. Les paniers pique-nique et les repas du soir sont à réserver la veille. Le menu et les prix sont indiqués sur notre tableau.",
+    "breakfast": "Petit déjeuner",
+    "breakfast-text": "C'est le repas le plus important de la journée et vous pourrez faire votre choix : céréales, salades de fruits, yaourts maison, petit déjeuner anglais végétarien...",
+    "picnic": "Pique-nique",
+    "picnic-text": "Vous n'avez pas envie de faire la queue dans un restaurant bondé ou de risquer de ne pas être servi parce que vous arrivez un peu tard ? Emportez un de nos paniers pique-nique et vous déjeunerez où vous voulez quand vous voulez.",
+    "tables": "Table d'hôtes",
+    "tables-text": "Le soir, si vous le désirez, nous pouvons vous proposer un repas végétarien et bio. Nous avons la chance d'avoir près de chez nous de nombreux petits producteurs de légumes et tous les plats que nous servons sont réalisés avec des ingrédients locaux, frais et savoureux."
   },
   ".surroundings": {
-    "title": "La maison",
-    "heading": "Autour de la maison",
-    "text": "Quoi faire",
-    "sur1": "Le verger et le Jardin",
-    "sur1-text": "Our orechard",
-    "sur2": "Les promenades",
-    "sur2-text": "Our orechard",
-    "sur3": "La mer",
-    "sur3-text": "Our orechard",
-    "sur4": "Brehat",
-    "sur4-text": "Our orechard",
-    "sur5": "Les villages de charme",
-    "sur5-text": "Our orechard"
+    "title": "",
+    "heading": "Notre maison",
+    "text": "Notre ferme du XVIIIe siècle a été restaurée avec soin avec des matériaux écologiques et des techniques traditionnelles afin de fournir à nos hôtes un cadre confortable et chaleureux. Selon votre envie, vous pourrez lézarder au soleil sur une chaise longue dans la cour, lire au coin du feu ou déjeuner dans la salle à manger.",
+    "sur1": "Le verger et le jardin",
+    "sur1-text": "Nous aimons qu'ils aient un aspect sauvage. Vous trouverez de nombreux endroits au calme dans notre jardin naturel, rempli des plantes qui font la renommée de la Bretagne, la balançoire sous le mimosa, le hamac dans le verger, les fleurs en abondance...",
+    "sur2": "Promenades depuis la maison",
+    "sur2-text": "Autour de nous, les sentiers sont nombreux, balisés, accessibles aux débutants comme aux randonneurs aguerris, et notamment le GR 34. Étant nous-mêmes des marcheurs enthousiastes, nous pourrons vous conseiller en fonction de vos envies.",
+    "sur3": "Le bord de mer",
+    "sur3-text": "La grève de Cornec, qui est à quelques minutes à pied, offre des points de vue d'une beauté à couper le souffle. Vous pourrez admirer le coucher du soleil derrière la Roche d'Épautre et la vue sur l'archipel de Bréhat. Ou plonger dans la mer si vous êtes courageux...",
+    "sur4": "Bréhat",
+    "sur4-text": "L'île de Bréhat est un lieu magique. Entre la côte nord à la beauté sauvage et les beaux manoirs de l'île sud, il y en a pour tous les goûts. L'été, il peut y avoir beaucoup de monde, mais nous vous ferons des suggestions pour éviter la foule et en profiter au maximum. L'embarcadère d'où partent les vedettes est facilement accessible à pied depuis la maison, ce qui vous évitera de perdre du temps à trouver une place de parking.",
+    "sur5": "Les villes alentour",
+    "sur5-text": "Paimpol et son beau port ne sont qu'à quelques kilomètres. Si vous êtes amateur de vélo, vous pourrez aussi emprunter la \"véloroute\" jusqu'à Tréguier, qui possède une impressionnante cathédrale et un beau centre médiéval."
   },
   ".aboutus": {
-    "title": "A propos",
-    "text": "Some blabla"
+    "title": "Qui sommes-nous ?",
+    "text1": "On nous demande souvent comment nous sommes arrivés en Bretagne.",
+    "text2": "Tout a commencé en 2017. Nous avions décidé d'aller en Amérique du Sud et de faire un périple en voiture au Chili et en Argentine. Nous avons loué un vieux fourgon, mis une tente dans le coffre et pris la route. À l'époque, nous habitions et travaillions en Belgique, et notre rythme de vie était frénétique. Pour limiter le stress, nous avions organisé méticuleusement notre voyage, mais dès le deuxième jour, notre programme était déjà à l'eau. Nous avons décidé de lâcher prise et de prendre les choses comme elles venaient. Ce fut notre première leçon.",
+    "text3": "Nous faisions du camping ou nous logions chez l'habitant, ce qui nous a permis de rencontrer des gens d'une gentillesse extraordinaire qui vivaient simplement, à la campagne, et partageaient ce qu'ils avaient. Nous avons commencé à nous dire qu'ils étaient beaucoup plus heureux que nous en Europe. Ce qui leur manquait en confort matériel était largement compensé par une nature vierge, un esprit solidaire, une joie de vivre, une véritable écologie : les choses qui comptent vraiment. Ce fut notre deuxième leçon.",
+    "text4": "Nous avons terminé notre séjour dans un camping en Patagonie. Son propriétaire, Nacho, nous a donné notre plus grande leçon de vie. Il avait été roadie dans sa jeunesse et avait sillonné la moitié du monde. Sa vie avait changé lorsqu'avec son épouse chilienne, ils avaient trouvé un emplacement magique près du Rio Simpson, avaient créé une ferme de légumes bio et ouvert un camping. Ils s'étaient concentrés sur l'essentiel: rencontrer des gens et vivre en pleine nature.Un soir, après une jam session épique à la guitare, il nous a donné un conseil essentiel: n'attendez pas. Si vous voulez changer de vie, faites-le maintenant. Et nous l'avons fait!",
+    "text5": ""
   },
   ".foot": {
     "address": "Addresse",
