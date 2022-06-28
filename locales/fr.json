@@ -19,10 +19,10 @@
   ".dining": {
     "title": "Les repas",
     "heading": "",
-    "text1": "En tant que gastronomes passionnés, nos repas reflètent ce que nous trouvons important. Utilisant des ingrédients biologiques locaux qui suivent les saisons, la cuisine végétarienne d'Hilde est synonyme de grandes saveurs, de plats raffinés et de nombreuses surprises.",
+    "text1": "Nous sommes passionnés de gastronomie et nous souhaitons que nos repas reflètent ce qui est important a nos yeux. À partir d'ingredients biologiques locaux et en fonction des saisons Hilde cuisine des plats originaux et pleins de saveurs, inspirés des traditions culinaires du monde entier.",
     "text2": "Le petit déjeuner est compris dans la location de la chambre. Les paniers pique-nique et les repas du soir sont à réserver la veille. Le menu et les prix sont indiqués sur notre tableau.",
     "breakfast": "Petit déjeuner",
-    "breakfast-text": "C'est le repas le plus important de la journée et vous pourrez faire votre choix : salades de fruits, yaourts et granola maison. Le classique français baguette, confiture du jardin ou petit déjeuner anglais végétarien avec les fameux Cocos de Paimpol...",
+    "breakfast-text": "C'est le repas le plus important de la journée et vous pourrez faire votre choix : salades de fruits, yaourts et granola maison. Le classique français baguette, confiture du jardin ou petit déjeuner anglais végétarien avec les fameux cocos de Paimpol...",
     "picnic": "Pique-nique",
     "picnic-text": "Vous n'avez pas envie de faire la queue dans un restaurant bondé ou de risquer de ne pas être servi parce que vous arrivez un peu tard ? Emportez un de nos paniers pique-nique et vous déjeunerez où vous voulez quand vous voulez.",
     "tables": "Table d'hôtes",
@@ -31,7 +31,7 @@
   ".surroundings": {
     "title": "",
     "heading": "Notre maison",
-    "text": "Notre ferme du XVIIIe siècle a été restaurée avec soin avec des matériaux écologiques et des techniques traditionnelles afin de fournir à nos hôtes un cadre confortable et chaleureux. On a essayé de réduire notre empreinte écologique aves l'installation d'un chauffe-eau solaire et une chaudière ecologique.  Selon votre envie, vous pourrez lézarder au soleil sur une chaise longue dans la cour, lire au coin du feu ou déjeuner dans la salle à manger.",
+    "text": "Notre ferme du XVIIIe siècle a été restaurée avec soin avec des matériaux écologiques et des techniques traditionnelles afin de fournir à nos hôtes un cadre confortable et chaleureux. Nous avons essayé de réduire notre empreinte carbone en installant un chauffe-eau solaire et une chaudière ecologique. Selon votre envie, vous pourrez lézarder au soleil sur une chaise longue dans la cour, lire au coin du feu ou déjeuner dans la salle à manger.",
     "sur1": "Le verger et le jardin",
     "sur1-text": "Nous aimons qu'ils aient un aspect sauvage. Vous trouverez de nombreux endroits au calme dans notre jardin naturel, rempli des plantes qui font la renommée de la Bretagne, la balançoire sous le mimosa, le hamac dans le verger, les fleurs en abondance...",
     "sur2": "Promenades depuis la maison",
