@@ -4,7 +4,7 @@ body {
   font-weight: 200;
   font-size: 16px;
   line-height: 1.8;
-  color: #6c757d;
+  color: #414751;
   position: relative; }
 
 ::-moz-selection {
@@ -275,7 +275,7 @@ textarea.form-control {
   color: #ff0000; }
 
 .visit-section .reviews-count {
-  color: #adb5bd;
+  color: #899a81;
   font-style: italic; }
 
 .heading-serif, .heading, .testimonial-section .heading, .slider-section .heading, .blog-post-entry .heading {
@@ -346,7 +346,7 @@ textarea.form-control {
     font-size: 26px; }
 
 .media-custom .meta-post {
-  color: #adb5bd;
+  color: #899a81;
   text-transform: uppercase;
   letter-spacing: .2em;
   font-size: 14px; }
@@ -477,7 +477,7 @@ textarea.form-control {
     transition: .3s all ease;
     color: #495057; }
     .owl-carousel.major-caousel .owl-nav .owl-prev:hover, .owl-carousel.major-caousel .owl-nav .owl-prev:focus, .owl-carousel.major-caousel .owl-nav .owl-next:hover, .owl-carousel.major-caousel .owl-nav .owl-next:focus {
-      color: #6c757d;
+      color: #414751;
       outline: none; }
     .owl-carousel.major-caousel .owl-nav .owl-prev.disabled, .owl-carousel.major-caousel .owl-nav .owl-next.disabled {
       color: #dee2e6; }
@@ -622,7 +622,7 @@ textarea.form-control {
     margin-top: -10px; }
   .post-list li a .meta {
     font-size: 13px;
-    color: #adb5bd; }
+    color: #899a81; }
   .post-list li a .image {
     width: 150px; }
   .post-list li a h3 {
@@ -672,7 +672,7 @@ textarea.form-control {
       position: absolute;
       top: 0;
       right: 0;
-      color: #6c757d; }
+      color: #414751; }
 
 .custom-pagination .page-item .page-link {
   text-align: center;
@@ -1319,7 +1319,7 @@ textarea.form-control {
       .pb_navbar.scrolled.pb_scrolled-light ul li a {
         color: #212529 !important; }
         .pb_navbar.scrolled.pb_scrolled-light ul li a:hover, .pb_navbar.scrolled.pb_scrolled-light ul li a:active, .pb_navbar.scrolled.pb_scrolled-light ul li a:focus {
-          color: #6c757d !important; }
+          color: #414751 !important; }
         .pb_navbar.scrolled.pb_scrolled-light ul li a.active {
           color: #ff0000 !important; }
       .pb_navbar.scrolled.pb_scrolled-light ul li.cta-btn > a > span {
