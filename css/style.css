@@ -1388,3 +1388,8 @@ textarea.form-control {
   overflow: hidden;
   object-fit: cover;
 }
+.dropdown-item.active.selected {
+background: white;
+color: black
+}
+
