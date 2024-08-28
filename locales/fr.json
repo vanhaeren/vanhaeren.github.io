@@ -20,13 +20,11 @@
     "title": "Les repas",
     "heading": "",
     "text1": "Nous sommes passionnés de gastronomie et nous souhaitons que nos repas reflètent ce qui est important a nos yeux. À partir d'ingredients biologiques locaux et en fonction des saisons Hilde cuisine des plats végétariens, originaux et pleins de saveurs, inspirés des traditions culinaires du monde entier.",
-    "text2": "Le petit déjeuner est compris dans la location de la chambre. Les repas du soir sont organisés deux fois par semaine, selon la demande. ils sont à réserver la veille.",
+    "text2": "Le petit déjeuner est compris dans la location de la chambre. Les repas du soir sont organisés trois fois par semaine, selon la demande. ils sont à réserver la veille.",
     "breakfast": "Petit déjeuner",
     "breakfast-text": "C'est le repas le plus important de la journée et vous pourrez faire votre choix : salades de fruits, yaourts et granola maison. Le classique français baguette, confiture du jardin ou petit déjeuner anglais végétarien avec les fameux cocos de Paimpol...",
-    "picnic": "Pique-nique",
-    "picnic-text": "Vous n'avez pas envie de faire la queue dans un restaurant bondé ou de risquer de ne pas être servi parce que vous arrivez un peu tard ? Emportez un de nos paniers pique-nique et vous déjeunerez où vous voulez quand vous voulez.",
     "tables": "Table d'hôtes",
-    "tables-text": "Le soir, si vous le désirez, nous pouvons vous proposer un repas végétarien et bio. Nous avons la chance d'avoir près de chez nous de nombreux petits producteurs de légumes et tous les plats que nous servons sont réalisés avec des ingrédients locaux, frais et savoureux."
+    "tables-text": "Trois fois par semaine, si vous le désirez, nous pouvons vous proposer un repas végétarien et bio. Nous avons la chance d'avoir près de chez nous de nombreux petits producteurs de légumes et tous les plats que nous servons sont réalisés avec des ingrédients locaux, frais et savoureux."
   },
   ".surroundings": {
     "title": "",
