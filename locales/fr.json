@@ -34,12 +34,12 @@
   ".dining": {
     "title": "Les repas",
     "heading": "",
-    "text1": "Nous sommes passionnés de gastronomie et nous souhaitons que nos repas reflètent ce qui est important a nos yeux. À partir d'ingredients biologiques locaux et en fonction des saisons Hilde cuisine des plats végétariens, originaux et pleins de saveurs, inspirés des traditions culinaires du monde entier.",
-    "text2": "Le petit déjeuner est compris dans la location de la chambre. Les repas du soir sont organisés trois fois par semaine, selon la demande. ils sont à réserver la veille.",
+    "text1": "Nous sommes passionnés de gastronomie et nous souhaitons que nos repas reflètent ce qui est important a nos yeux. À partir d'ingredients biologiques locaux et en fonction des saisons Hilde cuisine des plats végétariens ou végan, originaux et pleins de saveurs, inspirés des traditions culinaires du monde entier.",
+    "text2": "Le petit déjeuner est compris dans la location de la chambre. Les repas du soir sont organisés plusieurs fois par semaine, selon la demande. ils sont à réserver la veille.",
     "breakfast": "Petit déjeuner",
     "breakfast-text": "C'est le repas le plus important de la journée et vous pourrez faire votre choix.Servi sous forme de buffet, un petit-déjeuner salé et sucré, végétarien ou végan :thé - café - chocolat chaud - jus de pommes maison, salade de fruits frais, yaourt au lait d'origine animale ou végétale, granola maison - muesli, sélection des pains - baguettes, sélection de confitures maison, fromage, les oeufs, tofu brouillé, une surprise sucrée: crêpes, gaufres, galettes avoines à la banane, pancakes, banana bread ...",
     "tables": "Table d'hôtes",
-    "tables-text": "Trois fois par semaine, si vous le désirez, nous pouvons vous proposer un repas végétarien et bio. Nous avons la chance d'avoir près de chez nous de nombreux petits producteurs de légumes et tous les plats que nous servons sont réalisés avec des ingrédients locaux, frais et savoureux."
+    "tables-text": "Plusieurs fois par semaine, si vous le désirez, nous pouvons vous proposer un repas végétarien/végan et bio. Nous avons la chance d'avoir près de chez nous de nombreux petits producteurs de légumes et tous les plats que nous servons sont réalisés avec des ingrédients locaux, frais et savoureux."
   },
   ".surroundings": {
     "title": "",
