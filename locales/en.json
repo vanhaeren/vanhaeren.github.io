@@ -7,6 +7,7 @@
     "rooms": "Rooms",
     "dining": "Dining",
     "surroundings": "Around the house",
+    "rooms": "Our rooms",
     "reservations": "Reservations",
     "aboutus": "About us"
   },
@@ -15,6 +16,20 @@
   },
   ".rooms": {
     "title": "Our rooms"
+  },
+  ".room-details": {
+    "rosedo": "Rosédo",
+    "rosedo-text": "Situated on the 2nd floor, this room has a double King Size bed (180x200) that can be separated in 2  single beds (please ask us before arrival).Private bathroom with Italian shower and separate toilet. This Scandinavian style room has a ground surface of 24 m2.Well behaved pets are welcome in another room with independent entrance (Men Joliguet).No pets allowed in this room (Rosédo).",
+    "rosedo-text2": "No pets allowed in this room. Please book the room Men Joliget if you want to bring your pet.",
+    "paon": "Paon",
+    "paon-text": "No pets allowed in this room.Situated on the 2nd floor, this room has a double King Size bed (180x200) that can be separated in 2 single beds (please ask us before arrival) and a sleeper couch.Private bathroom with Italian shower and separate toilet.This Scandinavian style room has a ground surface of 24 m2.",
+    "paon-text2": "No pets allowed in this room. Please book the room Men Joliget if you want to bring your pet.",
+    "heaux": "Héaux de bréhat",
+    "heaux-text": "Situated on the 1st floor, this room has a double King Size bed (180x200) that can be separated in 2 single beds (please ask us before arrival) and a sofa bed.Private bathroom with Italian shower and separate toilet.This spacious and light room (35 m2) has all modern comfort combined with original charm.",
+    "heaux-text2": "No pets allowed in this room. Please book the room Men Joliget if you want to bring your pet.",
+    "menjoliget": "Men Joliget",
+    "menjoliget-text": "The Men Joliguet room is independent and has an entrance accessible via an external staircase.This room has a double King Size bed (180x200) that can be separated in 2 single beds (please ask us before arrival) and two sleeper couches (children).Private bathroom with Italian shower and separate toilet.This 35 m2 room in the attic is bright with a view of our garden and the setting sun.",
+    "menjoliget-text2": "This is the only room where well behaved pets are allowed."
   },
   ".dining": {
     "title": "Dining",
