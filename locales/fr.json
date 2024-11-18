@@ -7,6 +7,7 @@
     "rooms": "Chambres d'hôtes",
     "dining": "Table d'hôtes",
     "surroundings": "Notre maison",
+    "rooms": "Nos Chambres",
     "reservations": "Réserver",
     "aboutus": "Qui sommes-nous?"
   },
@@ -15,6 +16,20 @@
   },
   ".rooms": {
     "title": "Nos Chambres"
+  },
+  ".room-details": {
+    "rosedo": "Rosédo",
+    "rosedo-text": "Située au deuxième étage,  la chambre Rosédo dispose d'un lit King Size (180x200) séparable en deux lits simples (sur demande avant votre arrivée).Salle d'eau privative avec douche Italienne et WC privé. Cette chambre de 24 m2 avec poutres apparentes sous les combles est décorée dans un style scandinave épuré.",
+    "rosedo-text2": "Cette chambre n'accepte pas les animaux. Les animaux domestiques sont les bienvenus dans une autre chambre indépendante, Men Joliguet. ",
+    "paon": "Paon",
+    "paon-text": "Située au deuxième étage, la chambre Paon dispose d'un lit King Size (180x200) séparable en deux lits simples (sur demande avant votre arrivée) et d'une banquette. Salle d'eau privative avec douche Italienne et WC privé.Cette chambre de 26 m2 avec poutres apparentes sous les combles est décorée dans un style scandinave épuré.",
+    "paon-text2": "Cette chambre n'accepte pas les animaux. Les animaux domestiques sont les bienvenus dans une autre chambre indépendante, Men Joliguet. ",
+    "heaux": "Héaux de bréhat",
+    "heaux-text": "Située au première étage, la chambre Héaux de Bréhat  dispose d'un lit King Size (180x200) séparable en deux lits simples (sur demande avant votre arrivée) et d'une banquette.Salle d'eau privative avec douche Italienne et WC privé.Cette chambre de 35 m2 avec murs en pierre apparentes est très lumineuse, alliant confort moderne et charme de l’ancien.",
+    "heaux-text2": "Cette chambre n'accepte pas les animaux. Les animaux domestiques sont les bienvenus dans une autre chambre indépendante, Men Joliguet. ",
+    "menjoliget": "Men Joliget",
+    "menjoliget-text": "La chambre Men Joliguet est indépendante et a une entrée accessible par un escalier extérieur.La chambre dispose d'un lit King Size (180x200) séparable en deux lits simples (sur demande avant votre arrivée) et de 2 banquettes (enfants).Salle d'eau privative avec douche Italienne et WC privé.Cette chambre de 35 m2 sous les combles est lumineuse avec une vue sur notre jardin et le soleil couchant.",
+    "menjoliget-text2": "Cette chambre est la seule chambre où les animaux domestiques bien élevés sont admis."
   },
   ".dining": {
     "title": "Les repas",

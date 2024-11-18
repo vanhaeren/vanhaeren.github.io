@@ -47,7 +47,9 @@
         <!-- END menu-toggle -->
         <div class="collapse navbar-collapse" id="templateux-navbar-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item menu"><a class="nav-link text-nowrap text-white" href="#booking" key="reservations">
+                <li class="nav-item menu"><a class="nav-link text-nowrap text-white bookinglink" href="https://cornec.amenitiz.io/fr/booking/room" target="_blank" rel="noopener noreferrer" key="reservations">
+                </a></li>
+                <li class="nav-item menu"><a class="nav-link text-nowrap text-white" href="#section-rooms" key="rooms">
                 </a></li>
                 <li class="nav-item menu"><a class="nav-link text-nowrap text-white" href="#section-dining"
                                              key="dining"></a></li>
@@ -66,7 +68,7 @@
     </div>
 </nav>
 <!-- END nav -->
-<section class="site-hero inner-page overlay" style="background-image: url(images/DSC_0038.webp)"
+<section class="site-hero inner-page overlay" style="background-image: url(images/intro.webp)"
          data-stellar-background-ratio="0.5" id="section-home">
     <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
@@ -94,23 +96,62 @@
             </div>
         </div>
     </div>
-
-    <!--<a class="mouse smoothscroll" href="#next" >
-          <div class="mouse-icon">
-            <span class="mouse-wheel"></span>
-          </div>
-        </a>-->
 </section>
-<section class="site-hero-inner bg-light"  >
-    <div class="container-fluid m-0 p-0 mr-0 pr-0 min-vh-100 vh-100">
-        <div class="row ">
-            <div class="col-12" >
-               <iframe id="booking" class="min-vh-100 vh-100 w-100 h-100" style="min-height: 700px" src="https://cornec.amenitiz.io/fr/booking/room"></iframe>
+<section class="section" id="section-room-details">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-lg-4" data-aos="fade-up">
+                <a class="bookinglink" href="https://cornec.amenitiz.io/fr/booking/room" target="_blank" rel="noopener noreferrer" >
+                    <figure class="img-wrap">
+                        <img src="https://res.cloudinary.com/amenitiz/image/upload/ar_1.51,c_fill,q_auto:best,w_900/bcxlldkhfne1okrtfjzw" alt="Rosedo"
+                             class="img-fluid mb-3">
+                    </figure>
+                    <div class="p-3 text-center room-details">
+                        <h2 key="rosedo"></h2>
+                        <span class="text-dark" key="rosedo-text"></span>
+                        <p class="text-dark font-italic" key="rosedo-text2">></p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4" data-aos="fade-up">
+                <a class="bookinglink" href="https://cornec.amenitiz.io/fr/booking/room" target="_blank" rel="noopener noreferrer">
+                    <figure class="img-wrap">
+                        <img src="https://res.cloudinary.com/amenitiz/image/upload/ar_1.51,c_fill,q_auto:best,w_900/bib0oang1bliubdwtoyp" alt="paon" class="img-fluid mb-3">
+                    </figure>
+                    <div class="p-3 text-center room-details">
+                        <h2 key="paon"></h2>
+                        <span class="text-dark" key="paon-text"></span>
+                        <p class="text-dark font-italic" key="paon-text2">></p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4" data-aos="fade-up">
+                <a class="bookinglink" href="https://cornec.amenitiz.io/fr/booking/room" target="_blank" rel="noopener noreferrer" >
+                    <figure class="img-wrap">
+                        <img src="https://res.cloudinary.com/amenitiz/image/upload/ar_1.51,c_fill,q_auto:best,w_900/rxmxdd7hpcqfgf06mwat" alt="heaux" class="img-fluid mb-3">
+                    </figure>
+                    <div class="p-3 text-center room-details">
+                        <h2 key="heaux"></h2>
+                        <span class="text-dark" key="heaux-text"></span>
+                        <p class="text-dark font-italic" key="heaux-text2">></p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4" data-aos="fade-up">
+                <a class="bookinglink" href="https://cornec.amenitiz.io/fr/booking/room" target="_blank" rel="noopener noreferrer">
+                    <figure class="img-wrap">
+                        <img src="https://res.cloudinary.com/amenitiz/image/upload/ar_1.51,c_fill,q_auto:best,w_900/wetl5gthpxkgjwkcbrcv" alt="menjoliget" class="img-fluid mb-3">
+                    </figure>
+                    <div class="p-3 text-center room-details">
+                        <h2 key="menjoliget"></h2>
+                        <span class="text-dark" key="menjoliget-text"></span>
+                        <p class="text-dark font-italic" key="menjoliget-text2">></p>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
 </section>
-
 <section class="site-hero inner-page overlay" style="background-image: url(images/arti3.resized.webp)"
          data-stellar-background-ratio="0.5">
     <div class="container">
@@ -335,12 +376,13 @@
             <div class="col-md-3 mb-5">
                 <ul class="list-unstyled link footer">
                     <li class="menu"><a href="#section-home" key="home"></a></li>
-                    <li class="menu"><a href="#booking" key="reservations"></a></li>
-                    <li class="menu"><a href="#section-dining" key="dining"></a></li>
+                    <li class="menu"><a  class="bookinglink" href="https://cornec.amenitiz.io/fr/booking/room" target="_blank" rel="noopener noreferrer" key="reservations"></a></li>
+                    <li class="menu"><a href="#section-rooms" key="rooms"></a></li>
                 </ul>
             </div>
             <div class="col-md-3 mb-5">
                 <ul class="list-unstyled link footer">
+                    <li class="menu"><a href="#section-dining" key="dining"></a></li>
                     <li class="menu"><a href="#section-surroundings" key="surroundings"></a></li>
                     <li class="menu"><a href="#section-aboutus" key="aboutus"></a></li>
                 </ul>
@@ -400,7 +442,10 @@
         $('.selectpicker').selectpicker();
     });
     function setIframe(lang) {
-      document.getElementById('booking').src = 'https://cornec.amenitiz.io/' + lang + '/booking/room';
+      const  arr = document.getElementsByClassName("bookinglink")
+      for ( let i=0;i< arr.length; i++ ) {
+        arr.item(i).setAttribute('href' ,'https://cornec.amenitiz.io/' + lang + '/booking/room');
+      }
     }
 
 

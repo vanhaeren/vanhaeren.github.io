@@ -7,7 +7,8 @@
     "rooms": "Kamers",
     "dining": "Tafelen",
     "surroundings": "Omgeving",
-    "reservations": "Reserveringen",
+    "rooms": "Onze kamers",
+    "reservations": "Reserveren",
     "aboutus": "Over ons"
   },
   ".intro": {
@@ -15,6 +16,20 @@
   },
   ".rooms": {
     "title": "Onze kamers"
+  },
+  ".room-details": {
+    "rosedo": "Rosédo",
+    "rosedo-text": "De kamer Rosédo bevindt zich op de 2de verdieping en heeft een King Size bed (180x200) dat eventueel kan omgevormd worden tot 2 éénpersoons bedden (gelieve voor aankomst te melden).Privé badkamer met inloopdouche en privé toilet.Deze Nordic style kamer heeft een oppervlakte van 24 m2.",
+    "rosedo-text2": "Op deze kamer zijn huisdieren niet toegelaten. Huisdieren zijn welkom in een andere kamer met aparte ingang (Men Joliguet).",
+    "paon": "Paon",
+    "paon-text": "Op deze kamer zijn huisdieren niet toegelaten.De kamer Paon bevindt zich op de 2de verdieping en heeft een King Size bed (180x200) dat eventueel kan omgevormd worden tot 2 éénpersoons bedden (gelieve voor aankomst te melden) en een slaapbank.Privé badkamer met inloopdouche en privé toilet.Deze Nordic style kamer heeft een oppervlakte van 26 m2.",
+    "paon-text2": "Op deze kamer zijn huisdieren niet toegelaten. Huisdieren zijn welkom in een andere kamer met aparte ingang (Men Joliguet).",
+    "heaux": "Héaux de bréhat",
+    "heaux-text": "De kamer Héaux de Bréhat bevindt zich op de 1ste verdieping en heeft een King Size bed (180x200) dat eventueel kan omgevormd worden tot 2 éénpersoons bedden (gelieve voor aankomst te melden) en een sofabed.Privé badkamer met inloopdouche en privé toilet.Een ruime lichte kamer (35 m2) voorzien van alle moderne comfort gecombineerd met de charme van vroeger.",
+    "heaux-text2": "Op deze kamer zijn huisdieren niet toegelaten. Huisdieren zijn welkom in een andere kamer met aparte ingang (Men Joliguet).",
+    "menjoliget": "Men Joliget",
+    "menjoliget-text": "Deze aparte kamer heeft een ingang die toegankelijk is via een buitentrap.Deze kamer heeft een King Size bed (180x200) dat eventueel kan omgevormd worden tot 2 éénpersoons bedden (gelieve voor aankomst te melden) en twee slaapbanken (kinderen).Privé badkamer met inloopdouche en privé toilet.Deze zolderkamer van 35 m2 is licht met uitzicht op onze tuin en de ondergaande zon.",
+    "menjoliget-text2": "Alleen op deze kamer zijn goed opgevoede huisdieren toegestaan."
   },
   ".dining": {
     "title": "Tafelen",
