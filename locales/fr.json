@@ -11,6 +11,19 @@
     "reservations": "Réserver",
     "aboutus": "Qui sommes-nous?"
   },
+  ".card-title": {
+    "title": "Menu de Saint-Valentin pour fêter l'amour"
+  },
+  ".card-text": {
+    "apero-title": "Apéritif",
+    "apero": "Cocktail / mocktail rouge pour les amoureux",
+    "entree-title": "Entrée",
+    "entree": "Terrine de céleri-rave sur une purée de fenouil, petite salade de chou rouge, pommes et fenouil, avec un trait de sauce de chou rouge",
+    "plat-title": "Plat",
+    "plat": "Gnocchis au panais dans une sauce miso et noix, poires rôties, légumes verts croustillants, sauge et piment",
+    "dessert-title": "Dessert",
+    "dessert": "Bagatelle au crème de châtaignes et oranges caramélisées, piment d'Alep et fleur d’oranger, Café et friandises"
+  },
   ".intro": {
     "text": "Bienvenue chez Chambres d'hôtes Cornec ! Notre maison est située au calme dans la nature, à 700 m de la mer sur la côte de Granit Rose, près de l'île de Bréhat et Paimpol. Pour les amoureux de la nature, sachez que nous sommes à 500 m du GR34, le Sentier des Douaniers. On y découvre des paysages magnifiques et variés. Trois fois par semaine , selon la demande, nous proposons un dîner végétarien, cuisiné avec beaucoup de soin et d’amour. Les repas sont à réserver la veille."
   },

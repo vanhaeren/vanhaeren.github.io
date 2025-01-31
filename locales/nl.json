@@ -17,6 +17,19 @@
   ".rooms": {
     "title": "Onze kamers"
   },
+  ".card-title": {
+    "title": "Valentijnsmenu als ode aan de liefde"
+  },
+  ".card-text": {
+    "apero-title": "Aperitief",
+    "apero": "Rode hartverwarmende Cocktail / mocktail",
+    "entree-title": "Voorgerecht",
+    "entree": "Terrine van knolselder op een puree bedje van venkel, salade van rode kool, appel en venkel, reductie van rode kool",
+    "plat-title": "Hoofdgerecht",
+    "plat": "Gnocchis van pastinaak in een miso en walnotensaus, geroosterde peer, knapperige groentjes, salie en chili",
+    "dessert-title": "Dessert",
+    "dessert": "Triffle met kastanjeroom en gekarameliseerde sinaasappel, piment d'Alep en oranjebloesem. Koffie met zoetigheden"
+  },
   ".room-details": {
     "rosedo": "Rosédo",
     "rosedo-text": "De kamer Rosédo bevindt zich op de 2de verdieping en heeft een King Size bed (180x200) dat eventueel kan omgevormd worden tot 2 éénpersoons bedden (gelieve voor aankomst te melden).Privé badkamer met inloopdouche en privé toilet.Deze Nordic style kamer heeft een oppervlakte van 24 m2.",

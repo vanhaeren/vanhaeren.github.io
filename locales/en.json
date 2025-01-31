@@ -14,6 +14,19 @@
   ".intro": {
     "text": "Welcome at Bed and breakfast Cornec ! Our house is located in a quiet, natural hamlet,700 m from the sea at the Granit Rose coast, near l'île de Bréhat and Paimpol. We are near the GR34, the infamous coastal walking route that follows Brittany's coast line, where you can marvel the stunning coast and landscapes. Tree times per week, on demand, we offer a vegetarian menu, cooked with love and care by Hilde. Diner can be booked the day before."
   },
+  ".card-title": {
+    "title": "Valentine's day menu to celebrate LOVE"
+  },
+  ".card-text": {
+    "apero-title": "Aperitif",
+    "apero": "Red Cocktail / mocktail for Lovers",
+    "entree-title": "Starter",
+    "entree": "Celeriac terrine on fennel puree, salad of red cabbage, apple and fennel, with a dash of red cabbage sauce",
+    "plat-title": "Main",
+    "plat": "Parsnip Gnocchi in a miso and walnut sauce, roasted pears, crispy greens, sage and chili",
+    "dessert-title": "Dessert",
+    "dessert": "Trifle with chestnut cream and caramelised oranges, aleppo pepper and orange blossom. Coffee and sweets"
+  },
   ".rooms": {
     "title": "Our rooms"
   },
