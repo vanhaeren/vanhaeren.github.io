@@ -1,0 +1,84 @@
+{
+  "head": {
+    "title": "Gästezimmer & Table d'hôtes, Cornec"
+  },
+  ".menu": {
+    "home": "Startseite",
+    "rooms": "Zimmer",
+    "dining": "Essen",
+    "surroundings": "Umgebung",
+    "reservations": "Reservierungen",
+    "aboutus": "Über uns"
+  },
+  ".intro": {
+    "text": "Willkommen im Bed and Breakfast Cornec! Unser Haus liegt in einem ruhigen, natürlichen Weiler, 700 m vom Meer an der Granit Rose Küste, in der Nähe der Insel Bréhat und Paimpol. Wir befinden uns in der Nähe des GR34, der berühmten Küstenwanderroute, die der Küstenlinie der Bretagne folgt, wo Sie die atemberaubende Küste und die Landschaften bewundern können. Dreimal pro Woche bieten wir auf Anfrage ein vegetarisches Menü an, das von Hilde mit Liebe und Sorgfalt zubereitet wird. Das Abendessen kann am Vortag gebucht werden."
+  },
+  ".card-title": {
+    "title": "Valentinstagsmenü, um die Liebe zu feiern"
+  },
+  ".card-text": {
+    "apero-title": "Aperitif",
+    "apero": "Roter Cocktail / Mocktail für Verliebte",
+    "entree-title": "Vorspeise",
+    "entree": "Sellerie Terrine auf Fenchelpüree, Rotkohlsalat mit Apfel und Fenchel, mit einem Hauch Rotkohl Sauce",
+    "plat-title": "Hauptspeise",
+    "plat": "Pastinaken Gnocchi in einer Miso-Walnuss Sauce, gebratene Birnen, knackiges Grün, Salbei und Chili",
+    "dessert-title": "Dessert",
+    "dessert": "Trifle mit Kastaniencreme und karamellisierten Orangen, Aleppo Pfeffer und Orangenblüte. Kaffee und Süßigkeiten"
+  },
+  ".rooms": {
+    "title": "Unsere Zimmer"
+  },
+  ".room-details": {
+    "rosedo": "Rosédo",
+    "rosedo-text": "Dieses Zimmer befindet sich im 2. Stock und verfügt über ein Doppel-Kingsize-Bett (180x200), das in 2 Einzelbetten geteilt werden kann (bitte fragen Sie uns vor der Ankunft). Privates Badezimmer mit italienischer Dusche und separatem WC. Dieses Zimmer im skandinavischen Stil hat eine Grundfläche von 24 m2. Gut erzogene Haustiere sind in einem anderen Zimmer mit separatem Eingang willkommen (Men Joliguet). Keine Haustiere in diesem Zimmer erlaubt (Rosédo).",
+    "rosedo-text2": "In diesem Zimmer sind keine Haustiere erlaubt. Bitte buchen Sie das Zimmer Men Joliget, wenn Sie Ihr Haustier mitbringen möchten.",
+    "paon": "Paon",
+    "paon-text": "In diesem Zimmer sind keine Haustiere erlaubt. Dieses Zimmer befindet sich im 2. Stock und verfügt über ein Doppel-Kingsize-Bett (180x200), das in 2 Einzelbetten geteilt werden kann (bitte fragen Sie uns vor der Ankunft) und eine Schlafcouch. Privates Badezimmer mit italienischer Dusche und separatem WC. Dieses Zimmer im skandinavischen Stil hat eine Grundfläche von 24 m2.",
+    "paon-text2": "In diesem Zimmer sind keine Haustiere erlaubt. Bitte buchen Sie das Zimmer Men Joliget, wenn Sie Ihr Haustier mitbringen möchten.",
+    "heaux": "Héaux de Bréhat",
+    "heaux-text": "Dieses Zimmer befindet sich im 1. Stock und verfügt über ein Doppel-Kingsize-Bett (180x200), das in 2 Einzelbetten geteilt werden kann (bitte fragen Sie uns vor der Ankunft) und ein Schlafsofa. Privates Badezimmer mit italienischer Dusche und separatem WC. Dieses geräumige und helle Zimmer (35 m2) bietet allen modernen Komfort in Verbindung mit ursprünglichem Charme.",
+    "heaux-text2": "In diesem Zimmer sind keine Haustiere erlaubt. Bitte buchen Sie das Zimmer Men Joliget, wenn Sie Ihr Haustier mitbringen möchten.",
+    "menjoliget": "Men Joliget",
+    "menjoliget-text": "Das Zimmer Men Joliguet ist unabhängig und verfügt über einen Zugang über eine Außentreppe. Dieses Zimmer verfügt über ein Doppel-Kingsize-Bett (180x200), das in 2 Einzelbetten geteilt werden kann (bitte fragen Sie uns vor der Ankunft) und zwei Schlafsessel (Kinder). Privates Badezimmer mit italienischer Dusche und separatem WC. Dieses 35 m2 große Zimmer im Dachgeschoss ist hell und bietet einen Blick auf unseren Garten und die untergehende Sonne.",
+    "menjoliget-text2": "Dies ist das einzige Zimmer, in dem gut erzogene Haustiere erlaubt sind."
+  },
+  ".dining": {
+    "title": "Essen",
+    "heading": "",
+    "text1": "Als leidenschaftliche Feinschmecker spiegeln unsere Mahlzeiten wider, was wir wichtig finden. Mit lokalen Bio-Zutaten, die den Jahreszeiten folgen, dreht sich in Hildes vegetarischer/veganer Küche alles um große Aromen, gehobene Küche und viele Überraschungen.",
+    "text2": "Alle unsere Übernachtungen beinhalten Frühstück. Mehrmals pro Woche bieten wir ein Abendmenü an. Sie können dieses Abendessen am Vorabend buchen.",
+    "breakfast": "Frühstück",
+    "breakfast-text": "Unsere wichtigste Mahlzeit des Tages, daher sparen wir nicht an der Auswahl. Frühstücksbuffet, süß und herzhaft, vegetarisch oder vegan: Tee - Kaffee - heiße Schokolade - hausgemachter Apfelsaft, frischer Obstsalat, Joghurt mit tierischer oder pflanzlicher Milch, hausgemachtes Müsli - Müsli, Auswahl an Broten - Baguettes, Auswahl an hausgemachten Marmeladen, Käse, Eier, Rührtofu, eine süße Überraschung: Pfannkuchen, Waffeln, Haferflockenpfannkuchen mit Banane, Pfannkuchen, Bananenbrot ... Sie haben die Wahl!",
+    "tables": "Table d'hôtes",
+    "tables-text": "Bio-vegetarische oder vegane Küche zu Ihren Diensten. Da wir in der besten Gemüseanbauregion Frankreichs leben, ist das, was serviert wird, lokal, biologisch, frisch und köstlich."
+  },
+  ".surroundings": {
+    "title": "",
+    "heading": "Unser Haus",
+    "text": "Unser Bauernhaus aus dem 18. Jahrhundert wurde liebevoll mit ökologischen Materialien und traditionellen Techniken restauriert. Wir haben versucht, unseren ökologischen Fußabdruck mit natürlicher Isolation und Solarheizung zu minimieren. Alles, um unseren Gästen einen gemütlichen und warmen Aufenthalt zu bieten. Entspannen Sie sich auf einer Liege in der Sonne auf unserem Hof, lesen Sie ein Buch am Kamin oder verbringen Sie Ihr Mittagessen in unserem gemütlichen Esszimmer. Die Auswahl ist groß ...",
+    "sur1": "Der Garten und Obstgarten",
+    "sur1-text": "Wir mögen es wild! Viele ruhige Ecken in unserem Naturgarten, gefüllt mit dem, wofür die Bretagne berühmt ist. Schwingen Sie auf der Bank unter unserer Mimose, bestaunen Sie die Blütenpracht oder entspannen Sie sich in der Hängematte im Obstgarten",
+    "sur2": "Spaziergänge von unserem Haus aus",
+    "sur2-text": "Wir befinden uns in einem erstklassigen Wandergebiet und da wir selbst begeisterte Wanderer sind, können wir Ihnen viele gute Tipps geben. Zahlreiche Wanderrouten wie der berüchtigte GR34 und mehrere lokale Wanderwege führen in der Nähe unseres Hauses vorbei. Diese sind alle gut markiert und für alle Wanderstärken geeignet.",
+    "sur3": "Das Meer",
+    "sur3-text": "Die Küste bei Cornec ist einfach atemberaubend, genießen Sie den Sonnenuntergang hinter der Roche d'Epautre und bestaunen Sie den Blick auf das Bréhat-Archipel. Oder springen Sie einfach ins Meer, wenn Sie mutig genug sind",
+    "sur4": "Bréhat",
+    "sur4-text": "Bréhat ist einfach magisch. Von der rauen Nordküste bis zu den wunderschönen Herrenhäusern im Süden ist für jeden etwas dabei. Im Sommer kann es etwas zu voll werden, aber wir haben viele Tipps, um abseits der ausgetretenen Pfade einen tollen Aufenthalt zu genießen. Die Bootsüberfahrt nach Bréhat ist von unserem Haus aus zu Fuß erreichbar, so dass Sie keine Zeit mit der Parkplatzsuche verschwenden müssen",
+    "sur5": "Städte",
+    "sur5-text": "Das lebhafte Paimpol mit seinem schönen Hafen ist nur einen Katzensprung entfernt. Oder nehmen Sie Ihr Fahrrad mit auf dem Radweg nach Tréguier mit seiner beeindruckenden Kathedrale und dem mittelalterlichen Stadtzentrum"
+  },
+  ".aboutus": {
+    "title": "Über uns",
+    "text1": "Wir werden regelmäßig gefragt, wie meine Frau und ich in der Bretagne gelandet sind.",
+    "text2": "Diese Geschichte beginnt um das Jahr 2017, als wir beschlossen, nach Südamerika zu reisen und einen Roadtrip durch Chile und Argentinien zu unternehmen. Wir mieteten einen heruntergekommenen 'Fourgon', warfen ein Zelt in den Kofferraum und fuhren los. Wir beide hatten hektische Leben, lebten und arbeiteten in Belgien, und um den Stress zu minimieren, hatten wir unsere Reise recht akribisch geplant. Am zweiten Tag war dieser Plan bereits hinfällig. Wir beschlossen, loszulassen und es einfach auf uns zukommen zu lassen. Das war meine erste Lektion.",
+    "text3": "Wir übernachteten entweder auf Campingplätzen oder in Airbnbs bei Leuten zu Hause und trafen dort die herzlichsten und freundlichsten Menschen, die ein einfaches Leben auf dem Land führten und alles teilten, was sie hatten. Mir dämmerte, dass diese Menschen viel glücklicher waren als das, was ich in Europa gewohnt war. Was ihnen an materiellem Wohlbefinden fehlte, wurde durch etwas anderes kompensiert. Reine unberührte Natur, sozialer Zusammenhalt, Lebensfreude, echte Ökologie, Dinge, die wichtig sind. Das war meine zweite Lektion.",
+    "text4": "Wir landeten auf einem Campingplatz in Patagonien, der Nacho gehörte, der mir meine größte Lebenslektion erteilte. Nacho war früher Roadie und tourte den größten Teil seines Jugendlebens durch die halbe Welt. Das änderte sich, als er und seine chilenische Frau ein magisches Stück Land am Rio Simpson fanden, mit dem Salatanbau begannen und einen Campingplatz eröffneten und sich auf die wichtigen Dinge konzentrierten: Menschen treffen und in der Natur leben. Nach einer epischen Gitarren-Jam-Session mit ihm gab er mir einen ebenso epischen Ratschlag: Warte nicht. Wenn du dein Leben ändern willst, dann tu es jetzt. Und das haben wir getan!",
+    "text5": "Zurück zu Hause verkauften wir unser Haus, kündigten unsere Jobs und machten uns wieder auf den Weg, aber diesmal mit einem klaren Ziel. Unser Leben verändern, es jetzt tun! Wir suchten nach unserem Traumhaus und als wir auf dieses 300 Jahre alte Bauernhaus am Meer mit Blick auf die schönste Inselgruppe der Bretagne stießen, war es Liebe auf den ersten Blick. In den letzten Jahren haben wir diesen magischen Ort renoviert, die Geschichte und die Ökologie des Gebäudes respektiert, damit die Menschen mit uns das genießen können, was wir wichtig finden: das einfache Leben, die Natur, gutes Essen und Gespräche."
+  },
+  ".foot": {
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail"
+  }
+}
